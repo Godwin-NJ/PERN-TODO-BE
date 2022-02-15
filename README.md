@@ -13,7 +13,7 @@ const pool = new Pool({
     port: "5432",
 })
 
-- module.exports = pool;
+####### module.exports = pool;
 
 - N/B
 - user - "postgres" or your database username
