@@ -1,7 +1,7 @@
 # PERN-TODO-BE
-An Express + POSTGRES SQL application collecting data from the React FRONT END - THIS THE BE/Server setup
-CREATE A - db.js file on the parent folder
-with the below code declarations in order to interact with your postgresql db 
+
+#CREATE A - db.js file on the parent folder
+#with the below code declarations in order to interact with your postgresql db 
 
 const Pool = require('pg').Pool;
 
