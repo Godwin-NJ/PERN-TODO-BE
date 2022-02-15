@@ -28,6 +28,8 @@ const pool = new Pool({
 - \c smartbrain - connects to a particular database
 - \dt - view the tables details in this database
 - CREATE DATABASE perntodo; - creates a particular database
-- OTHER QUERY & resources * https://node-postgres.com/features/queries
-                         *  https://www.postgresql.org/docs/14/sql-delete.html
+- OTHER QUERY & resources 
+  * https://node-postgres.com/features/queries
+   * https://www.postgresql.org/docs/14/sql-delete.html
+   * https://www.youtube.com/watch?v=ldYcgPKEZC8
 
