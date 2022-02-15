@@ -1,6 +1,6 @@
 # PERN-TODO-BE
 
-# CREATE A - db.js file on the parent folder \n
+# CREATE A - db.js file on the parent folder 
 # with the below code declarations in order to interact with your postgresql db 
 
 const Pool = require('pg').Pool;
